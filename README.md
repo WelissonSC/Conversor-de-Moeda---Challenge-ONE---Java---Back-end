@@ -1,24 +1,19 @@
 <h1>Conversor de moeda (Currency converter)</h1>
 
+![image](https://github.com/user-attachments/assets/c59b958f-f1d2-4630-8153-a301249f9a74)
 
 
 ## Descrição do projeto
 
 ### <p align="justify">
-Desenvolver um Conversor de Moedas que ofereça interação textual (via console) com os usuários, proporcionando no mínimo 6 opções distintas de conversões de moedas em um menu. A taxa de conversão não será estática, mas sim dinamicamente obtida por meio de uma API, garantindo dados precisos e em tempo real para uma experiência mais atualizada e eficaz.
+Desenvolver um Conversor de Moedas que ofereça interação textual (via console) com os usuários, proporcionando opções distintas de conversões de moedas em um menu. A taxa de conversão não será estática, mas sim dinamicamente obtida por meio de uma API, garantindo dados precisos e em tempo real para uma experiência mais atualizada e eficaz.
 </p>
 
 ## Ferramentas e linguagens utilizadas 
 
 <p align="center"> 
- 
+  <img src="https://skillicons.dev/icons?i=java" width="48"> 
  <p/>
-
- ## Acesso ao projeto
-
- ### <p align="justify">
- Você pode acessar e testar o projeto pelo <a href="" target="_blank">  Vercel </a>
-</p>
 
 
  ## Desenvolvedores

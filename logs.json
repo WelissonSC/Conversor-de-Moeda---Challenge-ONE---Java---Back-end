@@ -1,0 +1,23 @@
+[
+  {
+    "coinBase": "BRL",
+    "coinTarget": "USD",
+    "amount": 100.0,
+    "conversion": 17.549999999999997,
+    "dateHour": "2025-05-07 11:30:12"
+  },
+  {
+    "coinBase": "ARS",
+    "coinTarget": "USD",
+    "amount": 1000.0,
+    "conversion": 0.83068,
+    "dateHour": "2025-05-07 11:30:15"
+  },
+  {
+    "coinBase": "USD",
+    "coinTarget": "EUR",
+    "amount": 120.0,
+    "conversion": 105.816,
+    "dateHour": "2025-05-07 11:30:20"
+  }
+]
